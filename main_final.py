@@ -10,13 +10,14 @@ import numpy as np
 
 # Sidebar select box for choosing the page
 page = st.sidebar.selectbox("Select Page", ["Data Exercise ETL", "News Classifier"])
+st.sidebar.subheader("Autor: Marcos D. Ibarra")
 
 # Define the main function for the Data Exercise ETL page
 def data_etl_page():
     
     st.title("Data Exercise 1: ETL Geopositional")
     # Create a file uploader widget to load the CSV file
-    uploaded_file = st.file_uploader("Upload CSV", type="csv")
+    uploaded_file = st.file_uploader("Upload CSV with geo data", type="csv")
 
     if uploaded_file is not None:
         
@@ -103,5 +104,6 @@ def news_classifier_page():
 # Check the selected page and display the corresponding content
 if page == "Data Exercise ETL":
     data_etl_page()
+
 elif page == "News Classifier":
     news_classifier_page()
