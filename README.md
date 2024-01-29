@@ -8,7 +8,9 @@ This repository contains solutions for two data science exercises, along with a 
 
 Exercise 1: Data Exercise 1: ETL Geopositional
 
-    Objective: Briefly describe the goal or objective of the first exercise.
+    Objective: Create a script to extract all the geo_points and return them in a format suitable for building an Echart map centered on the area of greatest relevance. 
+               The final result should be able to load a CSV file with data and generate a centered map.
+    
     Solution: First data cleaning and transformation is performed on the dataset for correct visualization.
     
     Data: For testing use geo-data.csv.
