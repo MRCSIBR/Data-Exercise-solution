@@ -1,2 +1,2 @@
 geopandas
-plotly-expres
+plotly-express
