@@ -19,5 +19,5 @@ Exercise 2: Data Exercise 2: News classifier
     Objective: Create a news classifier based on data in news_training_data.csv.
                The final result should be able to load a CSV with data and generate a table with the classification.
     Solution: News Classifier using Naive-Bayes.
-    Data: For testing use dataset: news-training-data.csv.
+    Data: For testing use dataset `news-training-data.csv`.
     Visualization (Streamlit): Load news dataset and press `Classify news` button.
