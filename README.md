@@ -1,2 +1,2 @@
 # Data-Exercise-solution
-Solutions for 2 exercises with streamlit deployment
+Solutions for 2 exercises with Streamlit deployment.
