@@ -23,3 +23,7 @@ Exercise 2: Data Exercise 2: News classifier
     Solution: News Classifier using Naive-Bayes.
     Data: For testing use dataset `news-training-data.csv`.
     Visualization (Streamlit): Load news dataset and press `Classify news` button.
+
+# Deployment
+
+https://data-exercise-solution-aagbeiqga5rz8vnrvtsrvy.streamlit.app/
