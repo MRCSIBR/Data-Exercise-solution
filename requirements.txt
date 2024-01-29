@@ -1,3 +1,4 @@
 geopandas
 plotly-express
 matplotlib
+scikit-learn
