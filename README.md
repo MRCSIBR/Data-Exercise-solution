@@ -1,6 +1,3 @@
-# Data-Exercise-solution
-Solutions for 2 data-science exercises with Streamlit deployment.
-
 # Data Science Exercise Solutions with Streamlit Deployment
 
 This repository contains solutions for two data science exercises, along with a Streamlit deployment for interactive visualization and exploration of the results. 
